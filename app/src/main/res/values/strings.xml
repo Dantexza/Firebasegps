@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Firebasegps</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="titulo">Localização com Firebase</string>
+    <string name="prefil">Ir para perfil do usuário</string>
+    <string name="id">ID</string>
+    <string name="nome">Nome</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="atualizar">atualizar</string>
+    <string name="remover">Remover</string>
+    <string name="plotar">Plotar</string>
+</resources>
